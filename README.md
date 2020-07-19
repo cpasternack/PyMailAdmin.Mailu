@@ -40,6 +40,14 @@ What it is not doing:
 
 Caveat emptor
 
+## Project status:
+
+07/2020:
+- Work in progress; Testing. 
+
+I am currently setting up a CI/CD pipeline internally to test some of the basic functionality.
+
+
 ## Changes:
 
 06/2020:
