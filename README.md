@@ -50,11 +50,12 @@ Caveat emptor
 - renamed project in code
 - removed redundant or unused environmental variables in application configuration
 - application now does not run as root
-- 
+ 
 
 07/2020:
 - adding CI workflow(s)
 - TLS enabled on DB connection
+- WIP adding license header to files
 
 ## Contributing
 
