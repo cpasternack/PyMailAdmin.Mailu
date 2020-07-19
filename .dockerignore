@@ -1,0 +1,9 @@
+.drone.yml
+.git
+.gitignore
+Dockerfile
+README.md
+docker-compose.yml
+docker.build
+docker.run
+.*.swp

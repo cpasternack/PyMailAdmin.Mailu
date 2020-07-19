@@ -1,0 +1,670 @@
+# Translations template for PROJECT.
+# Copyright (C) 2018 ORGANIZATION
+# This file is distributed under the same license as the PROJECT project.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2018.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"Report-Msgid-Bugs-To: EMAIL@ADDRESS\n"
+"POT-Creation-Date: 2018-04-22 12:10+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: Babel 2.5.3\n"
+
+#: pymailadmin/ui/forms.py:32
+msgid "Invalid email address."
+msgstr ""
+
+#: pymailadmin/ui/forms.py:36
+msgid "Confirm"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:40 pymailadmin/ui/forms.py:77
+msgid "E-mail"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:41 pymailadmin/ui/forms.py:78 pymailadmin/ui/forms.py:90
+#: pymailadmin/ui/forms.py:109 pymailadmin/ui/forms.py:162
+#: pymailadmin/ui/templates/client.html:32 pymailadmin/ui/templates/client.html:59
+msgid "Password"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:42 pymailadmin/ui/templates/login.html:4
+#: pymailadmin/ui/templates/sidebar.html:111
+msgid "Sign in"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:46 pymailadmin/ui/forms.py:56
+#: pymailadmin/ui/templates/domain/details.html:27
+#: pymailadmin/ui/templates/domain/list.html:18 pymailadmin/ui/templates/relay/list.html:17
+msgid "Domain name"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:47
+msgid "Maximum user count"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:48
+msgid "Maximum alias count"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:49
+msgid "Maximum user quota"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:50
+msgid "Enable sign-up"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:51 pymailadmin/ui/forms.py:72 pymailadmin/ui/forms.py:83
+#: pymailadmin/ui/forms.py:128 pymailadmin/ui/forms.py:140
+#: pymailadmin/ui/templates/alias/list.html:21 pymailadmin/ui/templates/domain/list.html:21
+#: pymailadmin/ui/templates/relay/list.html:19 pymailadmin/ui/templates/token/list.html:19
+#: pymailadmin/ui/templates/user/list.html:23
+msgid "Comment"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:52 pymailadmin/ui/forms.py:61 pymailadmin/ui/forms.py:66
+#: pymailadmin/ui/forms.py:73 pymailadmin/ui/forms.py:132 pymailadmin/ui/forms.py:141
+msgid "Create"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:57
+msgid "Initial admin"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:58
+msgid "Admin password"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:59 pymailadmin/ui/forms.py:79 pymailadmin/ui/forms.py:91
+msgid "Confirm password"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:65
+msgid "Alternative name"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:70
+msgid "Relayed domain name"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:71 pymailadmin/ui/templates/relay/list.html:18
+msgid "Remote host"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:80 pymailadmin/ui/templates/user/list.html:22
+#: pymailadmin/ui/templates/user/signup_domain.html:16
+msgid "Quota"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:81
+msgid "Allow IMAP access"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:82
+msgid "Allow POP3 access"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:84
+msgid "Enabled"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:85
+msgid "Save"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:89
+msgid "Email address"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:93 pymailadmin/ui/templates/sidebar.html:117
+#: pymailadmin/ui/templates/user/signup.html:4
+#: pymailadmin/ui/templates/user/signup_domain.html:4
+msgid "Sign up"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:97
+msgid "Displayed name"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:98
+msgid "Enable spam filter"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:99
+msgid "Spam filter tolerance"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:100
+msgid "Enable forwarding"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:101
+msgid "Keep a copy of the emails"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:103 pymailadmin/ui/forms.py:139
+#: pymailadmin/ui/templates/alias/list.html:20
+msgid "Destination"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:105
+msgid "Save settings"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:110
+msgid "Password check"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:111 pymailadmin/ui/templates/sidebar.html:16
+msgid "Update password"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:115
+msgid "Enable automatic reply"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:116
+msgid "Reply subject"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:117
+msgid "Reply body"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:119
+msgid "End of vacation"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:120
+msgid "Update"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:125
+msgid "Your token (write it down, as it will never be displayed again)"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:130 pymailadmin/ui/templates/token/list.html:20
+msgid "Authorized IP"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:136
+msgid "Alias"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:138
+msgid "Use SQL LIKE Syntax (e.g. for catch-all aliases)"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:145
+msgid "Admin email"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:146 pymailadmin/ui/forms.py:151 pymailadmin/ui/forms.py:164
+msgid "Submit"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:150
+msgid "Manager email"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:155
+msgid "Protocol"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:158
+msgid "Hostname or IP"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:159 pymailadmin/ui/templates/client.html:20
+#: pymailadmin/ui/templates/client.html:47
+msgid "TCP port"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:160
+msgid "Enable TLS"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:161 pymailadmin/ui/templates/client.html:28
+#: pymailadmin/ui/templates/client.html:55 pymailadmin/ui/templates/fetch/list.html:20
+msgid "Username"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:163
+msgid "Keep emails on the server"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:168
+msgid "Announcement subject"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:170
+msgid "Announcement body"
+msgstr ""
+
+#: pymailadmin/ui/forms.py:172
+msgid "Send"
+msgstr ""
+
+#: pymailadmin/ui/templates/announcement.html:4
+msgid "Public announcement"
+msgstr ""
+
+#: pymailadmin/ui/templates/client.html:4 pymailadmin/ui/templates/sidebar.html:82
+msgid "Client setup"
+msgstr ""
+
+#: pymailadmin/ui/templates/client.html:16 pymailadmin/ui/templates/client.html:43
+msgid "Mail protocol"
+msgstr ""
+
+#: pymailadmin/ui/templates/client.html:24 pymailadmin/ui/templates/client.html:51
+msgid "Server name"
+msgstr ""
+
+#: pymailadmin/ui/templates/confirm.html:4
+msgid "Confirm action"
+msgstr ""
+
+#: pymailadmin/ui/templates/confirm.html:13
+#, python-format
+msgid "You are about to %(action)s. Please confirm your action."
+msgstr ""
+
+#: pymailadmin/ui/templates/docker-error.html:4
+msgid "Docker error"
+msgstr ""
+
+#: pymailadmin/ui/templates/docker-error.html:12
+msgid "An error occurred while talking to the Docker server."
+msgstr ""
+
+#: pymailadmin/ui/templates/login.html:8
+msgid "to access the administration tools"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:11 pymailadmin/ui/templates/user/list.html:34
+msgid "Settings"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:21 pymailadmin/ui/templates/user/list.html:35
+msgid "Auto-reply"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:4 pymailadmin/ui/templates/sidebar.html:26
+#: pymailadmin/ui/templates/user/list.html:36
+msgid "Fetched accounts"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:31 pymailadmin/ui/templates/token/list.html:4
+msgid "Authentication tokens"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:35
+msgid "Administration"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:44
+msgid "Announcement"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:49
+msgid "Administrators"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:54
+msgid "Relayed domains"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:59 pymailadmin/ui/templates/user/settings.html:15
+msgid "Antispam"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:66
+msgid "Mail domains"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:72
+msgid "Go to"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:76
+msgid "Webmail"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:87
+msgid "Website"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:92
+msgid "Help"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/signup.html:4 pymailadmin/ui/templates/sidebar.html:98
+msgid "Register a domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/sidebar.html:105
+msgid "Sign out"
+msgstr ""
+
+#: pymailadmin/ui/templates/working.html:4
+msgid "We are still working on this feature!"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/create.html:4
+msgid "Add a global administrator"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/list.html:4
+msgid "Global administrators"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/list.html:9
+msgid "Add administrator"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/list.html:16 pymailadmin/ui/templates/alias/list.html:18
+#: pymailadmin/ui/templates/alternative/list.html:18
+#: pymailadmin/ui/templates/domain/list.html:16 pymailadmin/ui/templates/fetch/list.html:18
+#: pymailadmin/ui/templates/manager/list.html:18
+#: pymailadmin/ui/templates/relay/list.html:16 pymailadmin/ui/templates/token/list.html:18
+#: pymailadmin/ui/templates/user/list.html:18
+msgid "Actions"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/list.html:17 pymailadmin/ui/templates/alias/list.html:19
+#: pymailadmin/ui/templates/manager/list.html:19 pymailadmin/ui/templates/user/list.html:20
+msgid "Email"
+msgstr ""
+
+#: pymailadmin/ui/templates/admin/list.html:22 pymailadmin/ui/templates/alias/list.html:29
+#: pymailadmin/ui/templates/alternative/list.html:25
+#: pymailadmin/ui/templates/domain/list.html:31 pymailadmin/ui/templates/fetch/list.html:31
+#: pymailadmin/ui/templates/manager/list.html:24
+#: pymailadmin/ui/templates/relay/list.html:27 pymailadmin/ui/templates/token/list.html:26
+#: pymailadmin/ui/templates/user/list.html:31
+msgid "Delete"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/create.html:4
+msgid "Create alias"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/edit.html:4
+msgid "Edit alias"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/list.html:4
+msgid "Alias list"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/list.html:12
+msgid "Add alias"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/list.html:22
+#: pymailadmin/ui/templates/alternative/list.html:20
+#: pymailadmin/ui/templates/domain/list.html:22 pymailadmin/ui/templates/fetch/list.html:24
+#: pymailadmin/ui/templates/relay/list.html:20 pymailadmin/ui/templates/token/list.html:21
+#: pymailadmin/ui/templates/user/list.html:24
+msgid "Created"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/list.html:23 pymailadmin/ui/templates/domain/list.html:23
+#: pymailadmin/ui/templates/fetch/list.html:25 pymailadmin/ui/templates/relay/list.html:21
+#: pymailadmin/ui/templates/user/list.html:25
+msgid "Last edit"
+msgstr ""
+
+#: pymailadmin/ui/templates/alias/list.html:28 pymailadmin/ui/templates/domain/list.html:30
+#: pymailadmin/ui/templates/fetch/list.html:30 pymailadmin/ui/templates/relay/list.html:26
+#: pymailadmin/ui/templates/user/list.html:30
+msgid "Edit"
+msgstr ""
+
+#: pymailadmin/ui/templates/alternative/create.html:4
+msgid "Create alternative domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/alternative/list.html:4
+msgid "Alternative domain list"
+msgstr ""
+
+#: pymailadmin/ui/templates/alternative/list.html:12
+msgid "Add alternative"
+msgstr ""
+
+#: pymailadmin/ui/templates/alternative/list.html:19
+msgid "Name"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/create.html:4
+#: pymailadmin/ui/templates/domain/list.html:9
+msgid "New domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:4
+msgid "Domain details"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:15
+msgid "Regenerate keys"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:17
+msgid "Generate keys"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:31
+msgid "DNS MX entry"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:35
+msgid "DNS SPF entries"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:42
+msgid "DKIM public key"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:46
+msgid "DNS DKIM entry"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/details.html:50
+msgid "DNS DMARC entry"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/edit.html:4
+msgid "Edit domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:4
+msgid "Domain list"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:17
+msgid "Manage"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:19
+msgid "Mailbox count"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:20
+msgid "Alias count"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:28
+msgid "Details"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:35
+msgid "Users"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:36
+msgid "Aliases"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:37
+msgid "Managers"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/list.html:39
+msgid "Alternatives"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/signup.html:13
+msgid ""
+"In order to register a new domain, you must first setup the\n"
+"    domain zone so that the domain <code>MX</code> points to this server"
+msgstr ""
+
+#: pymailadmin/ui/templates/domain/signup.html:18
+msgid ""
+"If you do not know how to setup an <code>MX</code> record for your DNS "
+"zone,\n"
+"    please contact your DNS provider or administrator. Also, please wait "
+"a\n"
+"    couple minutes after the <code>MX</code> is set so the local server "
+"cache\n"
+"    expires."
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/create.html:4
+msgid "Add a fetched account"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/edit.html:4
+msgid "Update a fetched account"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:12
+msgid "Add an account"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:19
+msgid "Endpoint"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:21
+msgid "Keep emails"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:22
+msgid "Last check"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:35
+msgid "yes"
+msgstr ""
+
+#: pymailadmin/ui/templates/fetch/list.html:35
+msgid "no"
+msgstr ""
+
+#: pymailadmin/ui/templates/manager/create.html:4
+msgid "Add a manager"
+msgstr ""
+
+#: pymailadmin/ui/templates/manager/list.html:4
+msgid "Manager list"
+msgstr ""
+
+#: pymailadmin/ui/templates/manager/list.html:12
+msgid "Add manager"
+msgstr ""
+
+#: pymailadmin/ui/templates/relay/create.html:4
+msgid "New relay domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/relay/edit.html:4
+msgid "Edit relayd domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/relay/list.html:4
+msgid "Relayed domain list"
+msgstr ""
+
+#: pymailadmin/ui/templates/relay/list.html:9
+msgid "New relayed domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/token/create.html:4
+msgid "Create an authentication token"
+msgstr ""
+
+#: pymailadmin/ui/templates/token/list.html:12
+msgid "New token"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/create.html:4
+msgid "New user"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/create.html:15
+msgid "General"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/create.html:22
+msgid "Features and quotas"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/edit.html:4
+msgid "Edit user"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/forward.html:4
+msgid "Forward emails"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/list.html:4
+msgid "User list"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/list.html:12
+msgid "Add user"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/list.html:19 pymailadmin/ui/templates/user/settings.html:4
+msgid "User settings"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/list.html:21
+msgid "Features"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/password.html:4
+msgid "Password update"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/reply.html:4
+msgid "Automatic reply"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/settings.html:22
+msgid "Auto-forward"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/signup_domain.html:8
+msgid "pick a domain for the new account"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/signup_domain.html:14
+msgid "Domain"
+msgstr ""
+
+#: pymailadmin/ui/templates/user/signup_domain.html:15
+msgid "Available slots"
+msgstr ""
+
