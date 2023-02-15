@@ -45,6 +45,6 @@ tabulate
 tenacity
 validators
 visitor
-Werkzeug==0.16.0
+Werkzeug==2.2.3
 WTForms
 WTForms-Components
